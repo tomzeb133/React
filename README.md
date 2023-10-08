@@ -1,5 +1,5 @@
 # Description
-React Web App for college project
+React web app for college project
 
 # Getting Started with Create React App
 
